@@ -26,7 +26,7 @@ def _ok3():
 
 @ok
 def _ok5():
-	assert 10 == 10
+  assert 10 == 10
 
 
 @ok
